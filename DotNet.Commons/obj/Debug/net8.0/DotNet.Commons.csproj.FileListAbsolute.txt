@@ -1,0 +1,11 @@
+C:\Users\mathe\Programação\.NET - Backup\DotNet.Commons\bin\Debug\net8.0\DotNet.Commons.deps.json
+C:\Users\mathe\Programação\.NET - Backup\DotNet.Commons\bin\Debug\net8.0\DotNet.Commons.dll
+C:\Users\mathe\Programação\.NET - Backup\DotNet.Commons\bin\Debug\net8.0\DotNet.Commons.pdb
+C:\Users\mathe\Programação\.NET - Backup\DotNet.Commons\obj\Debug\net8.0\DotNet.Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Programação\.NET - Backup\DotNet.Commons\obj\Debug\net8.0\DotNet.Commons.AssemblyInfoInputs.cache
+C:\Users\mathe\Programação\.NET - Backup\DotNet.Commons\obj\Debug\net8.0\DotNet.Commons.AssemblyInfo.cs
+C:\Users\mathe\Programação\.NET - Backup\DotNet.Commons\obj\Debug\net8.0\DotNet.Commons.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Programação\.NET - Backup\DotNet.Commons\obj\Debug\net8.0\DotNet.Commons.dll
+C:\Users\mathe\Programação\.NET - Backup\DotNet.Commons\obj\Debug\net8.0\refint\DotNet.Commons.dll
+C:\Users\mathe\Programação\.NET - Backup\DotNet.Commons\obj\Debug\net8.0\DotNet.Commons.pdb
+C:\Users\mathe\Programação\.NET - Backup\DotNet.Commons\obj\Debug\net8.0\ref\DotNet.Commons.dll

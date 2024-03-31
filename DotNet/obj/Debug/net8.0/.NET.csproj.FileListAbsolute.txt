@@ -1,0 +1,46 @@
+C:\Users\mathe\Programação\.NET\bin\Debug\net8.0\.NET.exe
+C:\Users\mathe\Programação\.NET\bin\Debug\net8.0\.NET.deps.json
+C:\Users\mathe\Programação\.NET\bin\Debug\net8.0\.NET.runtimeconfig.json
+C:\Users\mathe\Programação\.NET\bin\Debug\net8.0\.NET.dll
+C:\Users\mathe\Programação\.NET\bin\Debug\net8.0\.NET.pdb
+C:\Users\mathe\Programação\.NET\obj\Debug\net8.0\.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Programação\.NET\obj\Debug\net8.0\.NET.AssemblyInfoInputs.cache
+C:\Users\mathe\Programação\.NET\obj\Debug\net8.0\.NET.AssemblyInfo.cs
+C:\Users\mathe\Programação\.NET\obj\Debug\net8.0\.NET.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Programação\.NET\obj\Debug\net8.0\.NET.dll
+C:\Users\mathe\Programação\.NET\obj\Debug\net8.0\refint\.NET.dll
+C:\Users\mathe\Programação\.NET\obj\Debug\net8.0\.NET.pdb
+C:\Users\mathe\Programação\.NET\obj\Debug\net8.0\.NET.genruntimeconfig.cache
+C:\Users\mathe\Programação\.NET\obj\Debug\net8.0\ref\.NET.dll
+C:\Users\mathe\Programação\.NET - Backup\bin\Debug\net8.0\.NET.exe
+C:\Users\mathe\Programação\.NET - Backup\bin\Debug\net8.0\.NET.deps.json
+C:\Users\mathe\Programação\.NET - Backup\bin\Debug\net8.0\.NET.runtimeconfig.json
+C:\Users\mathe\Programação\.NET - Backup\bin\Debug\net8.0\.NET.dll
+C:\Users\mathe\Programação\.NET - Backup\bin\Debug\net8.0\.NET.pdb
+C:\Users\mathe\Programação\.NET - Backup\obj\Debug\net8.0\.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Programação\.NET - Backup\obj\Debug\net8.0\.NET.AssemblyInfoInputs.cache
+C:\Users\mathe\Programação\.NET - Backup\obj\Debug\net8.0\.NET.AssemblyInfo.cs
+C:\Users\mathe\Programação\.NET - Backup\obj\Debug\net8.0\.NET.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Programação\.NET - Backup\obj\Debug\net8.0\.NET.dll
+C:\Users\mathe\Programação\.NET - Backup\obj\Debug\net8.0\refint\.NET.dll
+C:\Users\mathe\Programação\.NET - Backup\obj\Debug\net8.0\.NET.pdb
+C:\Users\mathe\Programação\.NET - Backup\obj\Debug\net8.0\.NET.genruntimeconfig.cache
+C:\Users\mathe\Programação\.NET - Backup\obj\Debug\net8.0\ref\.NET.dll
+C:\Users\mathe\Programação\.NET - Backup\DotNet\bin\Debug\net8.0\.NET.exe
+C:\Users\mathe\Programação\.NET - Backup\DotNet\bin\Debug\net8.0\.NET.deps.json
+C:\Users\mathe\Programação\.NET - Backup\DotNet\bin\Debug\net8.0\.NET.runtimeconfig.json
+C:\Users\mathe\Programação\.NET - Backup\DotNet\bin\Debug\net8.0\.NET.dll
+C:\Users\mathe\Programação\.NET - Backup\DotNet\bin\Debug\net8.0\.NET.pdb
+C:\Users\mathe\Programação\.NET - Backup\DotNet\obj\Debug\net8.0\.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Programação\.NET - Backup\DotNet\obj\Debug\net8.0\.NET.AssemblyInfoInputs.cache
+C:\Users\mathe\Programação\.NET - Backup\DotNet\obj\Debug\net8.0\.NET.AssemblyInfo.cs
+C:\Users\mathe\Programação\.NET - Backup\DotNet\obj\Debug\net8.0\.NET.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Programação\.NET - Backup\DotNet\obj\Debug\net8.0\.NET.dll
+C:\Users\mathe\Programação\.NET - Backup\DotNet\obj\Debug\net8.0\refint\.NET.dll
+C:\Users\mathe\Programação\.NET - Backup\DotNet\obj\Debug\net8.0\.NET.pdb
+C:\Users\mathe\Programação\.NET - Backup\DotNet\obj\Debug\net8.0\.NET.genruntimeconfig.cache
+C:\Users\mathe\Programação\.NET - Backup\DotNet\obj\Debug\net8.0\ref\.NET.dll
+C:\Users\mathe\Programação\.NET - Backup\DotNet\bin\Debug\net8.0\DotNet.Commons.dll
+C:\Users\mathe\Programação\.NET - Backup\DotNet\bin\Debug\net8.0\DotNet.Commons.pdb
+C:\Users\mathe\Programação\.NET - Backup\DotNet\obj\Debug\net8.0\.NET.csproj.AssemblyReference.cache
+C:\Users\mathe\Programação\.NET - Backup\DotNet\obj\Debug\net8.0\.NET.csproj.Up2Date
